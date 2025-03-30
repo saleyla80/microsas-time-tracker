@@ -55,4 +55,8 @@ npm start
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
+<<<<<<< HEAD
 [MIT](https://choosealicense.com/licenses/mit/) 
+=======
+[MIT](https://choosealicense.com/licenses/mit/)
+>>>>>>> 9edbfc3f46f49e63a0580062d41e62ff0258f65e
