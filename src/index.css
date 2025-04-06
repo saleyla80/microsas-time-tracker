@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media print {
+  @page {
+    size: landscape;
+    margin: 0.5in;
+  }
+
+  body {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  .print\:hidden {
+    display: none !important;
+  }
+
+  .print\:shadow-none {
+    box-shadow: none !important;
+  }
+
+  .print\:p-2 {
+    padding: 0.5rem !important;
+  }
+
+  .bg-gray-700 {
+    background-color: #374151 !important;
+    color: white !important;
+  }
+
+  .bg-gray-200 {
+    background-color: #E5E7EB !important;
+  }
+
+  .bg-gray-50 {
+    background-color: #F9FAFB !important;
+  }
+} 

@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 f93ba4224f56b583c1a6ea4617d7537c7cfc76e9 saleyla80 <97065160+saleyla80@users.noreply.github.com> 1743348587 -0700	commit (initial): Initial commit - Time Tracker App
+f93ba4224f56b583c1a6ea4617d7537c7cfc76e9 f93ba4224f56b583c1a6ea4617d7537c7cfc76e9 saleyla80 <97065160+saleyla80@users.noreply.github.com> 1743348752 -0700	Branch: renamed refs/heads/master to refs/heads/main
+f93ba4224f56b583c1a6ea4617d7537c7cfc76e9 bb97eeb28c26323d83b75fcef1299536756c9a54 saleyla80 <97065160+saleyla80@users.noreply.github.com> 1743348980 -0700	commit: Add README documentation
+bb97eeb28c26323d83b75fcef1299536756c9a54 58deca2a062c284f15d658f1d7ec8320f1c74da0 saleyla80 <97065160+saleyla80@users.noreply.github.com> 1743349042 -0700	commit (merge): Add README documentation
+58deca2a062c284f15d658f1d7ec8320f1c74da0 5bf343ad0de7c7dbcc39fe6a84604295f3a2b556 saleyla80 <97065160+saleyla80@users.noreply.github.com> 1743349397 -0700	commit: Fix Netlify deployment configuration
+5bf343ad0de7c7dbcc39fe6a84604295f3a2b556 c2ce6052310500e8db68366c873841467fa0f0ed saleyla80 <97065160+saleyla80@users.noreply.github.com> 1743349496 -0700	commit: Remove Git submodules and simplify build
+c2ce6052310500e8db68366c873841467fa0f0ed 85e3ac861e6105c2b7410502b3f49a98fa166b13 saleyla80 <97065160+saleyla80@users.noreply.github.com> 1743353116 -0700	commit: Remove submodule references
+85e3ac861e6105c2b7410502b3f49a98fa166b13 d61b2fd907882c65c0461f2842a4170ee409a7fb saleyla80 <97065160+saleyla80@users.noreply.github.com> 1743945993 -0700	commit: Fix clock in/out button states and pay period dates display
+d61b2fd907882c65c0461f2842a4170ee409a7fb 72e7cf227fa0475e0d8696d46c2e1a70266816b5 saleyla80 <97065160+saleyla80@users.noreply.github.com> 1743946516 -0700	commit: Update Firebase configuration for production
