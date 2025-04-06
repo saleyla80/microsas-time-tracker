@@ -4,3 +4,5 @@
 
 [build.environment]
   NODE_VERSION = "16"
+  GIT_LFS_ENABLED = "true"
+  GIT_SUBMODULE_STRATEGY = "recursive"
